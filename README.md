@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tkjelsrud, Agile Coach, Software developer and music geek
-- 👀 I’m interested in front-end/game development, music related development (midi, note sequencing)
+- 👀 I’m interested in front-end and music related development (midi, note sequencing)
 - 🌱 I’m currently learning Creative Coding (Canvas/javascript) through Domestika
 - 💞️ I’m looking to collaborate on weird/experimental art projects, games, web, etc...
 - 📫 How to reach me http://linktr.ee/notoms
