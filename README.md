@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tkjelsrud, Agile Coach, Software developer and music geek
+- 👋 Hi, I’m @tkjelsrud, Software developer/tester, agile coach and music geek
 - 👀 I’m interested in front-end and music related development (midi, note sequencing)
 - 🌱 I’m currently learning Creative Coding (Canvas/javascript) through Domestika
 - 💞️ I’m looking to collaborate on weird/experimental art projects, games, web, etc...
